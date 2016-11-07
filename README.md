@@ -70,4 +70,4 @@ For the demo, visit [here](http://gautamroy.com)
 
 ## License
 
-This project is licensed under the The GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the The GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
