@@ -58,11 +58,6 @@ typewriter.type({
 ```
 
 
-## Demo
-
-For the demo, visit [here](http://gautamroy.com)
-
-
 ## Authors
 
 * **Gautam Roy** [Github Link](https://github.com/Gautam--Roy).
